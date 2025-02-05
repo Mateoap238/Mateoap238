@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<img  width="80%"  align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE5dnFtbmIxb3RydHA0cnNiaTNqNmRsZ200b2J0enJ6aXRrbmxoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
+<img  width="40%"  align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE5dnFtbmIxb3RydHA0cnNiaTNqNmRsZ200b2J0enJ6aXRrbmxoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
   
 -💻 Software developer focused on building scalable and well-structured applications.  
 -🚀 Interested in software architecture, design patterns, and best development practices.  
