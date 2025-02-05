@@ -7,7 +7,7 @@
 -🚀 Interested in software architecture, design patterns, and best development practices.  
 -🛠️ Working with modern technologies to create efficient solutions in both frontend and backend.  
 -📚 Always exploring new tools and methodologies to improve code quality.  
--📩 Open to collaborations and new challenges. Feel free to reach out!  
+<-- -📩 Open to collaborations and new challenges. Feel free to reach out!-->  
 
 
 
