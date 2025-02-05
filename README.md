@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Mateo Álvarez Pérez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzY2N3F2c2hkaml6bjYyZXFzZWs5aGJ1cnlhMW04a2o3ZzI5ZTN3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" /> -->
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNja3k3cXZ4YXRhcXpxODU5YXJnZ2dyNGxzZnpucnNjcGJwY3Q4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif" />
+<img align="right" alt="GIF" src="https://https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh5dmZmb2NzZzY3MHJ4bGhtdXV6NmViMjd6b2RoZ2xhZDdpbDBsbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
   
