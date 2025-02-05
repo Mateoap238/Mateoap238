@@ -2,12 +2,13 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+  
+-💻 Software developer focused on building scalable and well-structured applications.  
+-🚀 Interested in software architecture, design patterns, and best development practices.  
+-🛠️ Working with modern technologies to create efficient solutions in both frontend and backend.  
+-📚 Always exploring new tools and methodologies to improve code quality.  
+-📩 Open to collaborations and new challenges. Feel free to reach out!  
 
--💻 Desarrollador de software enfocado en la creación de aplicaciones escalables y bien estructuradas.  
--🚀 Interesado en arquitectura de software, patrones de diseño y buenas prácticas de desarrollo.  
--🛠️ Trabajo con tecnologías modernas para construir soluciones eficientes en frontend y backend.  
--📚 Siempre explorando nuevas herramientas y metodologías para mejorar la calidad del código.  
--📩 ¿Colaboramos? Estoy abierto a nuevas ideas y desafíos.  
 
 
 <br>
