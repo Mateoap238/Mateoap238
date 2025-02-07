@@ -46,7 +46,7 @@
 
 <br>
 
-<!--
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <p align="left">
@@ -65,4 +65,4 @@
   </td>
 </tr>
 </table>
--->
+
